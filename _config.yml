@@ -10,7 +10,7 @@ author: itspatrq
 twitter:
   username: itspatrq
   card: summary
-theme: minimal-categorized
+remote_theme: ItsPatrq/minimal-categorized
 plugins:
   - jekyll-seo-tag
   - jekyll-feed

@@ -10,3 +10,5 @@ gem "jekyll-feed"
 gem "jekyll-sitemap"
 gem "jekyll-paginate-v2"
 gem "webrick", "~> 1.7"
+
+gem "minimal-categorized"
